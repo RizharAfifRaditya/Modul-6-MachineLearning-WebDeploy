@@ -1,5 +1,11 @@
 # Modul-6-MachineLearning-WebDeploy
 
+## _Dataset_
+Dataset yang digunakan dalam tugas ini menggunakan data citra yang berisi : 
+- rock
+- paper
+- scissors
+
 ## _MODEL_
 Menggunakan Model RestNet101, melakukan Image Generator dengan melakukan 10 epoch
 
