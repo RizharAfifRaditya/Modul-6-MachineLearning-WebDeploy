@@ -5,6 +5,8 @@ Dataset yang digunakan dalam tugas ini menggunakan data citra yang berisi :
 - rock
 - paper
 - scissors
+![output](https://github.com/RizharAfifRaditya/Modul-6-MachineLearning-WebDeploy/assets/103306204/bf35bcdf-d3f7-434f-adb4-b466e2932d04)
+Splitting dataset: 70% train, 5% test & 25% validation
 
 ## _MODEL_
 Menggunakan Model RestNet101, melakukan Image Generator dengan melakukan 10 epoch
